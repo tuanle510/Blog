@@ -10,4 +10,15 @@ class HomeController extends Controller
     {
         return view ('Client.index');
     }
+
+    public function single()
+    {
+        return view('Client.single');
+    }
+
+    public function categogy()
+    {
+        // echo("hello");
+        return view('Client.categories');
+    }
 }
