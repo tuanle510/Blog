@@ -1,5 +1,5 @@
 <?php
-use App\Http\Controllers\HomeController;
+use App\Http\Controllers\Client\HomeController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -13,6 +13,17 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/',[HomeController::class,'index']);
-Route::get('/single',[HomeController::class,'single']);
-Route::get('/categogy',[HomeController::class,'categogy']);
+// client
+Route::namespace('Client')->group(function () {
+    Route::get('/',[HomeController::class,'index']);
+    Route::get('/single',[HomeController::class,'single']);
+    Route::get('/categogy',[HomeController::class,'categogy']);
+});
+
+// admin
+Route::group([
+    'prefix' => 'admin',
+    'namespace' => 'Admin',
+], function () {
+    Route::get('/',[AdminController::class,'index']);
+});

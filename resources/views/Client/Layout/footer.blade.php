@@ -51,13 +51,13 @@
                 <span class="visually-hidden">Loading...</span>
             </div>
         </div>
-        <script src="/assets/js/bootstrap.bundle.min.js"></script>
-        <script src="/assets/js/tiny-slider.js"></script>
-        <script src="/assets/js/glightbox.min.js"></script>
-        <script src="/assets/js/aos.js"></script>
-        <script src="/assets/js/navbar.js"></script>
-        <script src="/assets/js/counter.js"></script>
-        <script src="/assets/js/custom.js"></script>
+        <script src="/assets/client/js/bootstrap.bundle.min.js"></script>
+        <script src="/assets/client/js/tiny-slider.js"></script>
+        <script src="/assets/client/js/glightbox.min.js"></script>
+        <script src="/assets/client/js/aos.js"></script>
+        <script src="/assets/client/js/navbar.js"></script>
+        <script src="/assets/client/js/counter.js"></script>
+        <script src="/assets/client/js/custom.js"></script>
 
         <script async src="https://www.googletagmanager.com/gtag/js?id=UA-23581568-13"></script>
         <script>

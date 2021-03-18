@@ -15,7 +15,7 @@
                             <div class="item">
                                 <div class="post-entry d-lg-flex">
                                     <div class="me-lg-5 thumbnail mb-4 mb-lg-0">
-                                        <a href="single.html"><img src="/assets/images/post_lg_1.jpg" alt="Image" class="img-fluid"></a>
+                                        <a href="single.html"><img src="/assets/client/images/post_lg_1.jpg" alt="Image" class="img-fluid"></a>
                                     </div>
                                     <div class="content align-self-center">
                                         <div class="post-meta mb-3">
@@ -26,7 +26,7 @@
                                         <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
                                         <a href="#" class="post-author d-flex align-items-center">
                                             <div class="author-pic">
-                                                <img src="/assets/images/person_1.jpg" alt="Image">
+                                                <img src="/assets/client/images/person_1.jpg" alt="Image">
                                             </div>
                                             <div class="text">
                                                 <strong>Sergy Campbell</strong>
@@ -40,7 +40,7 @@
                             <div class="item">
                                 <div class="post-entry d-lg-flex">
                                     <div class="me-lg-5 thumbnail mb-4 mb-lg-0">
-                                        <a href="single.html"><img src="/assets/images/post_lg_2.jpg" alt="Image" class="img-fluid"></a>
+                                        <a href="single.html"><img src="/assets/client/images/post_lg_2.jpg" alt="Image" class="img-fluid"></a>
                                     </div>
                                     <div class="content align-self-center">
                                         <div class="post-meta mb-3">
@@ -51,7 +51,7 @@
                                         <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
                                         <a href="#" class="post-author d-flex align-items-center">
                                             <div class="author-pic">
-                                                <img src="/assets/images/person_1.jpg" alt="Image">
+                                                <img src="/assets/client/images/person_1.jpg" alt="Image">
                                             </div>
                                             <div class="text">
                                                 <strong>Sergy Campbell</strong>
@@ -65,7 +65,7 @@
                             <div class="item">
                                 <div class="post-entry d-lg-flex">
                                     <div class="me-lg-5 thumbnail mb-4 mb-lg-0">
-                                        <a href="single.html"><img src="/assets/images/post_lg_3.jpg" alt="Image" class="img-fluid"></a>
+                                        <a href="single.html"><img src="/assets/client/images/post_lg_3.jpg" alt="Image" class="img-fluid"></a>
                                     </div>
                                     <div class="content align-self-center">
                                         <div class="post-meta mb-3">
@@ -76,7 +76,7 @@
                                         <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
                                         <a href="#" class="post-author d-flex align-items-center">
                                             <div class="author-pic">
-                                                <img src="/assets/images/person_1.jpg" alt="Image">
+                                                <img src="/assets/client/images/person_1.jpg" alt="Image">
                                             </div>
                                             <div class="text">
                                                 <strong>Sergy Campbell</strong>
@@ -90,7 +90,7 @@
                             <div class="item">
                                 <div class="post-entry d-lg-flex">
                                     <div class="me-lg-5 thumbnail mb-4 mb-lg-0">
-                                        <a href="single.html"><img src="/assets/images/post_lg_4.jpg" alt="Image" class="img-fluid"></a>
+                                        <a href="single.html"><img src="/assets/client/images/post_lg_4.jpg" alt="Image" class="img-fluid"></a>
                                     </div>
                                     <div class="content align-self-center">
                                         <div class="post-meta mb-3">
@@ -101,7 +101,7 @@
                                         <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
                                         <a href="#" class="post-author d-flex align-items-center">
                                             <div class="author-pic">
-                                                <img src="/assets/images/person_1.jpg" alt="Image">
+                                                <img src="/assets/client/images/person_1.jpg" alt="Image">
                                             </div>
                                             <div class="text">
                                                 <strong>Sergy Campbell</strong>
@@ -124,7 +124,7 @@
                 <div class="col-lg-4">
                     <div class="post-entry d-block small-post-entry-v">
                         <div class="thumbnail">
-                            <a href="single.html"><img src="/assets/images/img_2.jpg" alt="Image" class="img-fluid"></a>
+                            <a href="single.html"><img src="/assets/client/images/img_2.jpg" alt="Image" class="img-fluid"></a>
                         </div>
                         <div class="content">
                             <div class="post-meta mb-1">
@@ -135,7 +135,7 @@
                             <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
                             <a href="#" class="post-author d-flex align-items-center">
                                 <div class="author-pic">
-                                    <img src="/assets/images/person_1.jpg" alt="Image">
+                                    <img src="/assets/client/images/person_1.jpg" alt="Image">
                                 </div>
                                 <div class="text">
                                     <strong>Sergy Campbell</strong>
@@ -148,7 +148,7 @@
                 <div class="col-lg-4">
                     <div class="post-entry d-block small-post-entry-v">
                         <div class="thumbnail">
-                            <a href="single.html"><img src="/assets/images/img_3.jpg" alt="Image" class="img-fluid"></a>
+                            <a href="single.html"><img src="/assets/client/images/img_3.jpg" alt="Image" class="img-fluid"></a>
                         </div>
                         <div class="content">
                             <div class="post-meta mb-1">
@@ -159,7 +159,7 @@
                             <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
                             <a href="#" class="post-author d-flex align-items-center">
                                 <div class="author-pic">
-                                    <img src="/assets/images/person_1.jpg" alt="Image">
+                                    <img src="/assets/client/images/person_1.jpg" alt="Image">
                                 </div>
                                 <div class="text">
                                     <strong>Sergy Campbell</strong>
@@ -172,7 +172,7 @@
                 <div class="col-lg-4">
                     <div class="post-entry d-block small-post-entry-v">
                         <div class="thumbnail">
-                            <a href="single.html"><img src="/assets/images/img_4.jpg" alt="Image" class="img-fluid"></a>
+                            <a href="single.html"><img src="/assets/client/images/img_4.jpg" alt="Image" class="img-fluid"></a>
                         </div>
                         <div class="content">
                             <div class="post-meta mb-1">
@@ -183,7 +183,7 @@
                             <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
                             <a href="#" class="post-author d-flex align-items-center">
                                 <div class="author-pic">
-                                    <img src="/assets/images/person_1.jpg" alt="Image">
+                                    <img src="/assets/client/images/person_1.jpg" alt="Image">
                                 </div>
                                 <div class="text">
                                     <strong>Sergy Campbell</strong>
@@ -196,7 +196,7 @@
                 <div class="col-lg-4">
                     <div class="post-entry d-block small-post-entry-v">
                         <div class="thumbnail">
-                            <a href="single.html"><img src="/assets/images/img_4.jpg" alt="Image" class="img-fluid"></a>
+                            <a href="single.html"><img src="/assets/client/images/img_4.jpg" alt="Image" class="img-fluid"></a>
                         </div>
                         <div class="content">
                             <div class="post-meta mb-1">
@@ -207,7 +207,7 @@
                             <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
                             <a href="#" class="post-author d-flex align-items-center">
                                 <div class="author-pic">
-                                    <img src="/assets/images/person_1.jpg" alt="Image">
+                                    <img src="/assets/client/images/person_1.jpg" alt="Image">
                                 </div>
                                 <div class="text">
                                     <strong>Sergy Campbell</strong>
@@ -220,7 +220,7 @@
                 <div class="col-lg-4">
                     <div class="post-entry d-block small-post-entry-v">
                         <div class="thumbnail">
-                            <a href="single.html"><img src="/assets/images/img_5.jpg" alt="Image" class="img-fluid"></a>
+                            <a href="single.html"><img src="/assets/client/images/img_5.jpg" alt="Image" class="img-fluid"></a>
                         </div>
                         <div class="content">
                             <div class="post-meta mb-1">
@@ -231,7 +231,7 @@
                             <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
                             <a href="#" class="post-author d-flex align-items-center">
                                 <div class="author-pic">
-                                    <img src="/assets/images/person_1.jpg" alt="Image">
+                                    <img src="/assets/client/images/person_1.jpg" alt="Image">
                                 </div>
                                 <div class="text">
                                     <strong>Sergy Campbell</strong>
@@ -244,7 +244,7 @@
                 <div class="col-lg-4">
                     <div class="post-entry d-block small-post-entry-v">
                         <div class="thumbnail">
-                            <a href="single.html"><img src="/assets/images/img_6.jpg" alt="Image" class="img-fluid"></a>
+                            <a href="single.html"><img src="/assets/client/images/img_6.jpg" alt="Image" class="img-fluid"></a>
                         </div>
                         <div class="content">
                             <div class="post-meta mb-1">
@@ -255,7 +255,7 @@
                             <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
                             <a href="#" class="post-author d-flex align-items-center">
                                 <div class="author-pic">
-                                    <img src="/assets/images/person_1.jpg" alt="Image">
+                                    <img src="/assets/client/images/person_1.jpg" alt="Image">
                                 </div>
                                 <div class="text">
                                     <strong>Sergy Campbell</strong>
@@ -285,7 +285,7 @@
                 <div class="item">
                     <div class="post-entry d-block small-post-entry-v">
                         <div class="thumbnail">
-                            <a href="single.html"><img src="/assets/images/img_7.jpg" alt="Image" class="img-fluid"></a>
+                            <a href="single.html"><img src="/assets/client/images/img_7.jpg" alt="Image" class="img-fluid"></a>
                         </div>
                         <div class="content">
                             <div class="post-meta mb-1">
@@ -296,7 +296,7 @@
                             <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
                             <a href="#" class="post-author d-flex align-items-center">
                                 <div class="author-pic">
-                                    <img src="/assets/images/person_1.jpg" alt="Image">
+                                    <img src="/assets/client/images/person_1.jpg" alt="Image">
                                 </div>
                                 <div class="text">
                                     <strong>Sergy Campbell</strong>
@@ -309,7 +309,7 @@
                 <div class="item">
                     <div class="post-entry d-block small-post-entry-v">
                         <div class="thumbnail">
-                            <a href="single.html"><img src="/assets/images/img_2.jpg" alt="Image" class="img-fluid"></a>
+                            <a href="single.html"><img src="/assets/client/images/img_2.jpg" alt="Image" class="img-fluid"></a>
                         </div>
                         <div class="content">
                             <div class="post-meta mb-1">
@@ -320,7 +320,7 @@
                             <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
                             <a href="#" class="post-author d-flex align-items-center">
                                 <div class="author-pic">
-                                    <img src="/assets/images/person_1.jpg" alt="Image">
+                                    <img src="/assets/client/images/person_1.jpg" alt="Image">
                                 </div>
                                 <div class="text">
                                     <strong>Sergy Campbell</strong>
@@ -333,7 +333,7 @@
                 <div class="item">
                     <div class="post-entry d-block small-post-entry-v">
                         <div class="thumbnail">
-                            <a href="single.html"><img src="/assets/images/img_3.jpg" alt="Image" class="img-fluid"></a>
+                            <a href="single.html"><img src="/assets/client/images/img_3.jpg" alt="Image" class="img-fluid"></a>
                         </div>
                         <div class="content">
                             <div class="post-meta mb-1">
@@ -344,7 +344,7 @@
                             <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
                             <a href="#" class="post-author d-flex align-items-center">
                                 <div class="author-pic">
-                                    <img src="/assets/images/person_1.jpg" alt="Image">
+                                    <img src="/assets/client/images/person_1.jpg" alt="Image">
                                 </div>
                                 <div class="text">
                                     <strong>Sergy Campbell</strong>
@@ -357,7 +357,7 @@
                 <div class="item">
                     <div class="post-entry d-block small-post-entry-v">
                         <div class="thumbnail">
-                            <a href="single.html"><img src="/assets/images/img_4.jpg" alt="Image" class="img-fluid"></a>
+                            <a href="single.html"><img src="/assets/client/images/img_4.jpg" alt="Image" class="img-fluid"></a>
                         </div>
                         <div class="content">
                             <div class="post-meta mb-1">
@@ -368,7 +368,7 @@
                             <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
                             <a href="#" class="post-author d-flex align-items-center">
                                 <div class="author-pic">
-                                    <img src="/assets/images/person_1.jpg" alt="Image">
+                                    <img src="/assets/client/images/person_1.jpg" alt="Image">
                                 </div>
                                 <div class="text">
                                     <strong>Sergy Campbell</strong>
@@ -381,7 +381,7 @@
                 <div class="item">
                     <div class="post-entry d-block small-post-entry-v">
                         <div class="thumbnail">
-                            <a href="single.html"><img src="/assets/images/img_5.jpg" alt="Image" class="img-fluid"></a>
+                            <a href="single.html"><img src="/assets/client/images/img_5.jpg" alt="Image" class="img-fluid"></a>
                         </div>
                         <div class="content">
                             <div class="post-meta mb-1">
@@ -392,7 +392,7 @@
                             <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
                             <a href="#" class="post-author d-flex align-items-center">
                                 <div class="author-pic">
-                                    <img src="/assets/images/person_1.jpg" alt="Image">
+                                    <img src="/assets/client/images/person_1.jpg" alt="Image">
                                 </div>
                                 <div class="text">
                                     <strong>Sergy Campbell</strong>
@@ -405,7 +405,7 @@
                 <div class="item">
                     <div class="post-entry d-block small-post-entry-v">
                         <div class="thumbnail">
-                            <a href="single.html"><img src="/assets/images/img_6.jpg" alt="Image" class="img-fluid"></a>
+                            <a href="single.html"><img src="/assets/client/images/img_6.jpg" alt="Image" class="img-fluid"></a>
                         </div>
                         <div class="content">
                             <div class="post-meta mb-1">
@@ -416,7 +416,7 @@
                             <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
                             <a href="#" class="post-author d-flex align-items-center">
                                 <div class="author-pic">
-                                    <img src="/assets/images/person_1.jpg" alt="Image">
+                                    <img src="/assets/client/images/person_1.jpg" alt="Image">
                                 </div>
                                 <div class="text">
                                     <strong>Sergy Campbell</strong>
@@ -442,7 +442,7 @@
                         <div class="col-lg-12">
                             <div class="post-entry d-md-flex xsmall-horizontal mb-5">
                                 <div class="me-md-3 thumbnail mb-3 mb-md-0">
-                                    <img src="/assets/images/img_2.jpg" alt="Image" class="img-fluid">
+                                    <img src="/assets/client/images/img_2.jpg" alt="Image" class="img-fluid">
                                 </div>
                                 <div class="content">
                                     <div class="post-meta mb-1">
@@ -452,7 +452,7 @@
                                     <h2 class="heading"><a href="single.html">Your most unhappy customers are your greatest source of learning.</a></h2>
                                     <a href="#" class="post-author d-flex align-items-center">
                                         <div class="author-pic">
-                                            <img src="/assets/images/person_1.jpg" alt="Image">
+                                            <img src="/assets/client/images/person_1.jpg" alt="Image">
                                         </div>
                                         <div class="text">
                                             <strong>Sergy Campbell</strong>
@@ -465,7 +465,7 @@
                         <div class="col-lg-12">
                             <div class="post-entry d-md-flex xsmall-horizontal mb-5">
                                 <div class="me-md-3 thumbnail mb-3 mb-md-0">
-                                    <img src="/assets/images/img_3.jpg" alt="Image" class="img-fluid">
+                                    <img src="/assets/client/images/img_3.jpg" alt="Image" class="img-fluid">
                                 </div>
                                 <div class="content">
                                     <div class="post-meta mb-1">
@@ -475,7 +475,7 @@
                                     <h2 class="heading"><a href="single.html">Your most unhappy customers are your greatest source of learning.</a></h2>
                                     <a href="#" class="post-author d-flex align-items-center">
                                         <div class="author-pic">
-                                            <img src="/assets/images/person_1.jpg" alt="Image">
+                                            <img src="/assets/client/images/person_1.jpg" alt="Image">
                                         </div>
                                         <div class="text">
                                             <strong>Sergy Campbell</strong>
@@ -488,7 +488,7 @@
                         <div class="col-lg-12">
                             <div class="post-entry d-md-flex xsmall-horizontal mb-5">
                                 <div class="me-md-3 thumbnail mb-3 mb-md-0">
-                                    <img src="/assets/images/img_4.jpg" alt="Image" class="img-fluid">
+                                    <img src="/assets/client/images/img_4.jpg" alt="Image" class="img-fluid">
                                 </div>
                                 <div class="content">
                                     <div class="post-meta mb-1">
@@ -498,7 +498,7 @@
                                     <h2 class="heading"><a href="single.html">Your most unhappy customers are your greatest source of learning.</a></h2>
                                     <a href="#" class="post-author d-flex align-items-center">
                                         <div class="author-pic">
-                                            <img src="/assets/images/person_1.jpg" alt="Image">
+                                            <img src="/assets/client/images/person_1.jpg" alt="Image">
                                         </div>
                                         <div class="text">
                                             <strong>Sergy Campbell</strong>
@@ -520,7 +520,7 @@
                         <div class="col-lg-12">
                             <div class="post-entry d-md-flex xsmall-horizontal mb-5">
                                 <div class="me-md-3 thumbnail mb-3 mb-md-0">
-                                    <img src="/assets/images/img_2.jpg" alt="Image" class="img-fluid">
+                                    <img src="/assets/client/images/img_2.jpg" alt="Image" class="img-fluid">
                                 </div>
                                 <div class="content">
                                     <div class="post-meta mb-1">
@@ -530,7 +530,7 @@
                                     <h2 class="heading"><a href="single.html">Your most unhappy customers are your greatest source of learning.</a></h2>
                                     <a href="#" class="post-author d-flex align-items-center">
                                         <div class="author-pic">
-                                            <img src="/assets/images/person_1.jpg" alt="Image">
+                                            <img src="/assets/client/images/person_1.jpg" alt="Image">
                                         </div>
                                         <div class="text">
                                             <strong>Sergy Campbell</strong>
@@ -543,7 +543,7 @@
                         <div class="col-lg-12">
                             <div class="post-entry d-md-flex xsmall-horizontal mb-5">
                                 <div class="me-md-3 thumbnail mb-3 mb-md-0">
-                                    <img src="/assets/images/img_3.jpg" alt="Image" class="img-fluid">
+                                    <img src="/assets/client/images/img_3.jpg" alt="Image" class="img-fluid">
                                 </div>
                                 <div class="content">
                                     <div class="post-meta mb-1">
@@ -553,7 +553,7 @@
                                     <h2 class="heading"><a href="single.html">Your most unhappy customers are your greatest source of learning.</a></h2>
                                     <a href="#" class="post-author d-flex align-items-center">
                                         <div class="author-pic">
-                                            <img src="/assets/images/person_1.jpg" alt="Image">
+                                            <img src="/assets/client/images/person_1.jpg" alt="Image">
                                         </div>
                                         <div class="text">
                                             <strong>Sergy Campbell</strong>
@@ -566,7 +566,7 @@
                         <div class="col-lg-12">
                             <div class="post-entry d-md-flex xsmall-horizontal mb-5">
                                 <div class="me-md-3 thumbnail mb-3 mb-md-0">
-                                    <img src="/assets/images/img_4.jpg" alt="Image" class="img-fluid">
+                                    <img src="/assets/client/images/img_4.jpg" alt="Image" class="img-fluid">
                                 </div>
                                 <div class="content">
                                     <div class="post-meta mb-1">
@@ -576,7 +576,7 @@
                                     <h2 class="heading"><a href="single.html">Your most unhappy customers are your greatest source of learning.</a></h2>
                                     <a href="#" class="post-author d-flex align-items-center">
                                         <div class="author-pic">
-                                            <img src="/assets/images/person_1.jpg" alt="Image">
+                                            <img src="/assets/client/images/person_1.jpg" alt="Image">
                                         </div>
                                         <div class="text">
                                             <strong>Sergy Campbell</strong>
