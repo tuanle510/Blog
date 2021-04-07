@@ -8,7 +8,7 @@ use App\Http\Requests\AddBlogRequest;
 
 class BlogController extends Controller
 {
-    public function blog()
+    public function idnex()
     {
         return view ('Admin.blogs.blog');
     }
