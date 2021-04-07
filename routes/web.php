@@ -28,13 +28,13 @@ Route::group([
     'prefix' => 'admin',
     'namespace' => 'Admin',
 ], function () {
-    Route::get('/login',[LoginController::class,'index']);
-    Route::post('/login',[LoginController::class,'login']);
+    Route::get('login',[LoginController::class,'index']);
+    Route::post('login',[LoginController::class,'login']);
     Route::get('/',[AdminController::class,'index']);
     Route::group(['prefix' => 'blog'], function () {
         Route::get('', [BlogController::class,'blog']);
         Route::get('create',[BlogController::class,'create']);
-        Route::post('', [BlogController::class,'store']);
+        Route::post('create', [BlogController::class,'store']);
         Route::get('{blog}/edit', [BlogController::class,'edit']);
         // Route::put('{Hotel}', 'HotelController@update');
         // Route::delete('{Hotel}', 'HotelController@destroy');

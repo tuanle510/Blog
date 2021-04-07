@@ -4,6 +4,7 @@ namespace App\Http\Controllers\Admin;
 
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
+use App\Http\Requests\AddBlogRequest;
 
 class BlogController extends Controller
 {
@@ -16,8 +17,8 @@ class BlogController extends Controller
         return view('Admin.blogs.addblog');
     }
 
-    public function store(){
-        
+    public function store(AddBlogRequest $r){
+        // dd($r->all());
     }
 
     public function edit(){
