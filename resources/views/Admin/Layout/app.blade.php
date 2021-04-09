@@ -33,7 +33,13 @@
 	<script src="/assets/admin/js/bootstrap.min.js"></script>
 	<script src="/assets/admin/js/chart.min.js"></script>
 	<script src="/assets/admin/js/chart-data.js"></script>
-
+	<script>
+        $(document).ready(function() {
+            const pageId = $("#page-id").val();
+            $(`.menu-${pageId}`).parents('li').addClass('active');
+        })
+    </script>
+@stack('adminJs')
 </body>
 
 </html>

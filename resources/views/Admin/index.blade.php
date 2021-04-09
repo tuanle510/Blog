@@ -1,4 +1,4 @@
-@extends('Admin.Layout.app', ['title' => 'Admin'])
+@extends('Admin.Layout.app', ['activePage' => 'dashboard','title' => 'Admin'])
 @section('content')
     
     <!--main-->

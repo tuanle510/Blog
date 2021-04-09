@@ -1,4 +1,4 @@
-@extends('Admin.Layout.app', ['title' => 'category'])
+@extends('Admin.Layout.app', ['activePage' => 'categories','title' => 'category'])
 @section('content')
 
 	<div class="col-sm-9 col-sm-offset-3 col-lg-10 col-lg-offset-2 main">
