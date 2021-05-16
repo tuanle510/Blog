@@ -16,7 +16,7 @@ class CategoryController extends Controller
         return view('Admin.categories.addcategory');
     }
 
-    public function store(AddBlogRequest $r){
-        // dd($r->all());
+    public function store(request $r){
+        dd($r->all());
     }
 }

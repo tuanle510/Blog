@@ -65,6 +65,7 @@
                                         <div class="form-group">
                                             <label>Tóm tắt</label>
                                             <textarea name="info" style="width: 100%;height: 100px;"></textarea>
+                                            {!! ShowError($errors,'info') !!}
                                         </div>
                                      </div>
                         
@@ -74,6 +75,7 @@
                                     <div class="form-group">
                                         <label>Miêu tả</label>
                                         <textarea id="editor" name="describe" style="width: 100%;height: 100px;"></textarea>
+                                        {!! ShowError($errors,'describe') !!}
                                     </div>
                                     <button class="btn btn-success" name="add-product" type="submit">Thêm bài viết</button>
                                     <button class="btn btn-danger" type="reset">Huỷ bỏ</button>

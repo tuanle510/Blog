@@ -24,7 +24,8 @@
 					<div class="panel-body">
 						<div class="row">
 							<div class="col-md-5">
-
+							<form action="/admin/category/create" method="POST">
+							@csrf
 								<div class="form-group">
 									<label for="">Danh mục cha:</label>
 									<select class="form-control" name="" id="">
@@ -39,7 +40,7 @@
 								<div class="form-group">
 									<label for="">Tên Danh mục</label>
 									<input type="text" class="form-control" name="name" id="" placeholder="Tên danh mục mới">
-
+									{!! ShowError($errors,'name') !!}
 									<div class="alert bg-danger" role="alert">
 										<svg class="glyph stroked cancel">
 											<use xlink:href="#stroked-cancel"></use>
@@ -48,7 +49,7 @@
 								</div>
 								<button type="submit" class="btn btn-primary">Thêm danh mục</button>
 							</div>
-							
+							</form>
 						</div>
 					</div>
 				</div>

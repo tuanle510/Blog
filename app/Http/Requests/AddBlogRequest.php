@@ -26,6 +26,8 @@ class AddBlogRequest extends FormRequest
         return [
             
             'name' => 'required|min:10|unique:blog,name',
+            'info' => 'required',
+            'describe' => 'required',
             'img' => 'image'
         ];
     }
@@ -34,9 +36,13 @@ class AddBlogRequest extends FormRequest
     {
         return [
 
-            'name.required' => 'Không được để trống mã bài viết',
+            'name.required' => 'Không được để trống tiêu đề bài viết',
             'name.min' => 'Tiêu đề bài viêt quá ngắn',
             'name.unique' => 'Tiêu đề đã tồn tại',
+
+            'info.required' => 'Không được để trống tóm tắt bài viết',
+
+            'describe.required' => 'Không được để trống bài viết',
 
             'img.image' => 'Ảnh sản phẩm không đúng định dạng',
         ];
